@@ -1,0 +1,59 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+/*Header Section*/
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.banenr-content {
+    max-width: 500px;
+}
+
+.banner-greeting {
+    font-size: 45px;
+    color: #474747;
+    margin-bottom: 0;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-top: 5px;
+    margin-bottom: 32px;
+}
+
+.banner-description {
+    margin-top: 0px;
+    margin-bottom: 32px;
+}
+
+.text-primary {
+    color: #FD6E0A;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    border: 0;
+    padding: 20px 43px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.banner .header-flower-pic {
+    width: 500px;
+    padding: 50px 240px 0px 97px;
+}
