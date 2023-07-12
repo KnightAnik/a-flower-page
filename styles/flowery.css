@@ -60,13 +60,11 @@
 
 /*Main Section*/
 
+/*sell section*/
+
 .main-div-writingpart {
     text-align: center;
 }
-
-/*.main-div-image{
-    padding-right: 200px;
-}*/
 
 .sale-alignment {
     padding: 70px 430px 80px 350px;
@@ -85,30 +83,76 @@
     margin-bottom: 15px;
 }
 
+/*Insta Section*/
+
 .third-title {
     color: #272727;
     text-align: center;
     font-size: 40px;
     font-weight: 800;
+    margin-top: 130px;
 }
 
-.insta-content{
+.insta-content {
     padding: 0px 600px;
     align-items: center;
     text-align: center;
+    margin-bottom: 50px;
 }
 
-.img-container{
+.img-container {
     display: flex;
     justify-content: space-between;
     padding: auto;
     margin-left: 240px;
     margin-right: 240px;
+    margin-bottom: 130px;
+}
+
+/*latest Deals section*/
+
+.update-container {
+    background-image: url(../Rectangle9.png);
+    background-repeat: no-repeat ;
+    padding: auto;
+    margin: 0 240px 50px 240px;
+}
+
+.update-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 130px;
+}
+
+.update-text {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.form-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 130px;
+    gap: 10px;
+}
+
+.mail-input {
+    padding: 25px 500px 25px 20px;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
 }
 
 /*footer title*/
-.footer-back{
-    margin-top: 50px; 
+
+.footer-back {
+    margin-top: 50px;
     background-color: black;
     padding: 100px 440px;
+    margin-top: 130px;
 }
