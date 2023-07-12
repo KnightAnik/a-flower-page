@@ -57,3 +57,30 @@
     width: 500px;
     padding: 50px 240px 0px 97px;
 }
+
+/*Main Section*/
+
+.main-div-writingpart{
+    text-align: center;
+}
+
+/*.main-div-image{
+    padding-right: 200px;
+}*/
+
+.sale-alignment {
+    padding: 70px 430px 80px 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    gap: 10px;
+}
+
+.second-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 5px;
+    margin-bottom: 32px;
+}
