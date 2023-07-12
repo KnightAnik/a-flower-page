@@ -60,7 +60,7 @@
 
 /*Main Section*/
 
-.main-div-writingpart{
+.main-div-writingpart {
     text-align: center;
 }
 
@@ -82,5 +82,28 @@
     font-size: 40px;
     font-weight: 800;
     margin-top: 5px;
-    margin-bottom: 32px;
+    margin-bottom: 15px;
 }
+
+.third-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.insta-content{
+    padding: 0px 600px;
+    align-items: center;
+    text-align: center;
+}
+
+.img-container{
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+/*footer title*/
