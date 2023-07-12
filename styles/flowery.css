@@ -107,3 +107,8 @@
 }
 
 /*footer title*/
+.footer-back{
+    margin-top: 50px; 
+    background-color: black;
+    padding: 100px 440px;
+}
